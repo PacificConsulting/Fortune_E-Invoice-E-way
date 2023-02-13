@@ -1,0 +1,59 @@
+{
+  "id": "e55fe715-20e9-4928-a745-291aac194cad",
+  "name": "FORTUNE E-Invoie & E-WayBill",
+  "publisher": "PACIFIC",
+  "version": "1.0.0.6",
+  "brief": "",
+  "description": "E-Invoie & E-WayBill Actions",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "671fabea-d83e-4744-903b-575efa4176d6",
+      "publisher": "PACIFIC",
+      "name": "FORTUNE BC 19",
+       "version": "1.0.0.4"
+    },
+    {
+      "appId": "2dc39818-e0f0-42b6-99eb-ba29dc5f4102",
+      "publisher": "Microsoft",
+      "name": "India Gate Entry",
+      "version": "18.2.26217.26490"
+
+    },
+    {
+      "appId": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+      "publisher": "Microsoft",
+      "name": "India GST",
+      "version": "18.2.26217.26490"
+    },
+    {
+      "appId": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+      "publisher": "Microsoft",
+      "name": "Tax Engine",
+      "version": "18.2.26217.26490"
+    },
+    {
+      "appId": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+      "publisher": "Microsoft",
+      "name": "India Tax Base",
+      "version": "18.2.26217.26490"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50549
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "8.0",
+  "propagateDependencies": true,
+  "target": "OnPrem"
+}
